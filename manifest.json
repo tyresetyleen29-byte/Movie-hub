@@ -1,0 +1,8 @@
+{
+  "name": "Movie Hub",
+  "short_name": "MovieHub",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#00ffcc"
+}
